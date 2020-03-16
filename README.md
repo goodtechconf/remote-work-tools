@@ -4,6 +4,8 @@ This is a site quickly put together to provide a list of suggested tools to supp
 
 # Collaboritve office tools
 
+Whiteboard: https://miro.com/
 
 # Screen Sharing tools
 
+Code sharing: https://tuple.app/
